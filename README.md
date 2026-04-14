@@ -1,0 +1,2 @@
+# Labirint
+Generator de labirinturi
